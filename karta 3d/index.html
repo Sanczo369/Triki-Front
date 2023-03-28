@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+ <meta charset="UTF-8">
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>karta</title>
+ <style>
+  .plansza{
+   height: 500px;
+   width: 300px;
+   background: white;
+   position: fixed;
+   top:50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   perspective: 700px;
+   }
+   .plansza:hover >.karta{
+     transform: rotateY(180deg);
+   }
+   .karta{
+   position: relative;
+   height: 100%;
+   width: 100%;
+   background-color: #ddd;
+   transition: 1s;
+   transform-style: preserve-3d;
+   
+   }
+   .tyl{
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   background-image: url(karta2.jpg);
+   color: #fff;
+   font-family: arial;
+   font-size: 20px;
+   text-align: center;
+   transition: 1s;
+   transform:rotateY(180deg);
+   backface-visibility: hidden;
+   }
+ 
+   .przod{
+   position: absolute;
+   height: 100%;
+   width: 100%;
+   background-image: url(karta1.jpg);
+   background-size: 100%;
+   box-shadow: 0 0 4px 8px #fff inset;
+   backface-visibility: hidden;
+   }
+
+
+
+ </style>
+</head>
+<body>
+ <div class="plansza">
+   <div class="karta">
+     <div class="przod"></div>
+     <div class="tyl"></div>
+   </div>
+  </div>
+</body>
+</html>
