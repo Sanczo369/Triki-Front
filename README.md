@@ -15,3 +15,4 @@ Drobne Elementy do Stron WWW
 - Tekst z obrysem
 - Wewnętrzne zaokrąglenia
 - Zdjecie romb 
+- Tekst na okregu
