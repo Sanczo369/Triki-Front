@@ -16,3 +16,9 @@ Drobne Elementy do Stron WWW
 - Wewnętrzne zaokrąglenia
 - Zdjecie romb 
 - Tekst na okregu
+- Elastyczne pozycjonowanie tła
+### Skomplikowane desenie w tle
+- Cerata
+- Kropki
+- Niebieska siatka
+- Niebieska siatka 2.0
