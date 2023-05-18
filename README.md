@@ -17,8 +17,11 @@ Drobne Elementy do Stron WWW
 - Zdjecie romb 
 - Tekst na okregu
 - Elastyczne pozycjonowanie tła
+- (Pseudo)losowe tła
+- Ciagle obramowania graficzne
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
 - Niebieska siatka
 - Niebieska siatka 2.0
+- Trojkaty
