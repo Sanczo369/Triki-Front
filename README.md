@@ -19,6 +19,14 @@ Drobne Elementy do Stron WWW
 - Elastyczne pozycjonowanie tła
 - (Pseudo)losowe tła
 - Ciagle obramowania graficzne
+- Równoległoboki
+- Obraz w kształcie rombu
+- Obramowanie ruchome kreski
+- Elastyczne elipsy
+- Zakłdaki Trapez
+- Wykres kołowy
+- Jednostronne Cienie
+- Nieregularne Cienie
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
