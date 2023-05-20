@@ -27,6 +27,9 @@ Drobne Elementy do Stron WWW
 - Wykres kołowy
 - Jednostronne Cienie
 - Nieregularne Cienie
+- Zagięte rogi
+- Przenoszenie wyrazów
+- Wsawianie znaku łamania wiersza
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
