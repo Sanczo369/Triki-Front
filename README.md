@@ -30,6 +30,11 @@ Drobne Elementy do Stron WWW
 - Zagięte rogi
 - Przenoszenie wyrazów
 - Wsawianie znaku łamania wiersza
+- Tekst w paski
+- Wielkosc tabulacji
+- Ligatury
+- Niestandardowe podkreslenia
+- Realistyczne efekty tekstowe
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
