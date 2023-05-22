@@ -35,6 +35,9 @@ Drobne Elementy do Stron WWW
 - Ligatury
 - Niestandardowe podkreslenia
 - Realistyczne efekty tekstowe
+- kursor
+- powiekszenie atywnego obszaru
+- Niestandardowe pola opcji
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
