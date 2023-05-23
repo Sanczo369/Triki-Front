@@ -38,6 +38,10 @@ Drobne Elementy do Stron WWW
 - kursor
 - powiekszenie atywnego obszaru
 - Niestandardowe pola opcji
+- Marginalizowanie przez przyciemnienie
+- Marginalizowanie przez rozmycie
+- Podpowiedzi przy scrolowaniu
+- Interaktywne porównywanie obrazów
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
