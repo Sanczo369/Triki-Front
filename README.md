@@ -42,6 +42,11 @@ Drobne Elementy do Stron WWW
 - Marginalizowanie przez rozmycie
 - Podpowiedzi przy scrolowaniu
 - Interaktywne porównywanie obrazów
+- Wymiarowanie wewnątrzkontekstowe
+- Kontrolowanie szerokosci kolum tabeli
+- Nadawanie stylu na podstawie liczby elementów równorzędnych
+- Płynne tło nieruchoma zawartość
+- Wyśrodkowanie w pionie
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
