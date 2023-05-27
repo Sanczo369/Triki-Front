@@ -47,6 +47,13 @@ Drobne Elementy do Stron WWW
 - Nadawanie stylu na podstawie liczby elementów równorzędnych
 - Płynne tło nieruchoma zawartość
 - Wyśrodkowanie w pionie
+- Przeklejone stopki
+- Elastyczne Przejśćia
+- Animacje poklatkowe
+- Miganie
+- Animacje naśladujące wprowadzanie tekstu
+- Płynne przełączanie stanów animacji
+- Animacje wzdłuż okągłej ścieżki
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
