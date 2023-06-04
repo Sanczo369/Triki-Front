@@ -1,5 +1,5 @@
 # Triki-Front
-Drobne Elementy do Stron WWW
+Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 ## Projekty
 - Narożniki wycięte
 - Przezroczyste ramki
