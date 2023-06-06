@@ -54,6 +54,7 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Animacje naśladujące wprowadzanie tekstu
 - Płynne przełączanie stanów animacji
 - Animacje wzdłuż okągłej ścieżki
+- Button Hover Effects
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
