@@ -55,6 +55,11 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Płynne przełączanie stanów animacji
 - Animacje wzdłuż okągłej ścieżki
 - Button Hover Effects
+- Gradient Loader
+- Side Bar
+- Dropdown Menu
+- Fold Cube Loader
+- Glass Animation
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
