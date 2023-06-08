@@ -1,0 +1,15 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: #06122c;
+    color: #0dc5c1;
+}
+.semicircle {
+    width: 200px;
+    height: 200px;
+    float: left;
+    background: linear-gradient(90deg, transparent, transparent 50%, #fff);
+    border-radius: 50%;
+    shape-outside: circle(50%);
+    margin-right: 50px;
+    margin-left: -50px;
+}
