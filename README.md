@@ -60,6 +60,11 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Dropdown Menu
 - Fold Cube Loader
 - Glass Animation
+- Loading Dots Animation
+- Alternate Flashing
+- balloons
+- draw-semicircle(moon)
+- Triangle Pattern - 6
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
