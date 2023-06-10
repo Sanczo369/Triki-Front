@@ -65,6 +65,12 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - balloons
 - draw-semicircle(moon)
 - Triangle Pattern - 6
+- Progress Bar
+- PacMan
+- Wrap Text Around a Semicircle
+- Background Conic Gradient
+- Yellow Triangle
+- Chart
 ### Skomplikowane desenie w tle
 - Cerata
 - Kropki
