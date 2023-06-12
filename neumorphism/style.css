@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #a00303;
+}
+div {
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(145deg, #900303, #ab0303);
+    border-radius: 46px;
+    box-shadow: 23px 23px 46px #8b0303,
+        -23px -23px 46px #b50303;
+}
