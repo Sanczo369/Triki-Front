@@ -1,28 +1,18 @@
 # Triki-Front
 Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
-## Projekty
-- Narożniki wycięte
+## Projekty(book)
 - Przezroczyste ramki
-- Tło w paski
 - Wiele Ramek
-- Karta 3d
-- Obracanie obiektu
-- Obramowanie
-- Pierscień
-- Pisanie na maszynie
-- Przesuwajacy sie tekst
-- Sticky notes
-- Tekst z obrysem
-- Wewnętrzne zaokrąglenia
-- Zdjecie romb 
-- Tekst na okregu
 - Elastyczne pozycjonowanie tła
+- Wewnętrzne zaokrąglenia
+- Tło w paski
+- Skomplikowane desenie w tle
 - (Pseudo)losowe tła
 - Ciagle obramowania graficzne
+- Elastyczne elipsy
 - Równoległoboki
 - Obraz w kształcie rombu
-- Obramowanie ruchome kreski
-- Elastyczne elipsy
+- Narożniki wycięte
 - Zakłdaki Trapez
 - Wykres kołowy
 - Jednostronne Cienie
@@ -35,6 +25,7 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Ligatury
 - Niestandardowe podkreslenia
 - Realistyczne efekty tekstowe
+- Tekst na okregu
 - kursor
 - powiekszenie atywnego obszaru
 - Niestandardowe pola opcji
@@ -54,6 +45,25 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Animacje naśladujące wprowadzanie tekstu
 - Płynne przełączanie stanów animacji
 - Animacje wzdłuż okągłej ścieżki
+
+### Skomplikowane desenie w tle
+- Cerata
+- Kropki
+- Niebieska siatka
+- Niebieska siatka 2.0
+- Trojkaty
+- Karta 3d
+
+## Dodatki
+- Obracanie obiektu
+- Obramowanie
+- Pierscień
+- Pisanie na maszynie
+- Przesuwajacy sie tekst
+- Sticky notes
+- Tekst z obrysem
+- Zdjecie romb 
+- Obramowanie ruchome kreski
 - Button Hover Effects
 - Gradient Loader
 - Side Bar
@@ -71,9 +81,3 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Background Conic Gradient
 - Yellow Triangle
 - Chart
-### Skomplikowane desenie w tle
-- Cerata
-- Kropki
-- Niebieska siatka
-- Niebieska siatka 2.0
-- Trojkaty
