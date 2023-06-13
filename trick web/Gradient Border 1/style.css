@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000c18;
+}
+.box {
+    height: 300px;
+    width: 300px;
+    border: 10px solid #dd496c;
+    border-image-slice: 1;
+    border-image-source: linear-gradient(to bottom right, red, purple);
+}
