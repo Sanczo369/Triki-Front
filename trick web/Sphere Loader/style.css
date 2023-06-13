@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d86981;
+}
+.box {
+    width: 300px;
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: black;
+    filter: blur(10px) contrast(20);
+}
+.sphere1, .sphere2 {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    background-color: #f7ba14;
+    border-radius: 50%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.sphere1 {
+    left: 20%;
+    animation: left 2.5s ease infinite;
+}
+.sphere2 {
+    left: 80%;
+    animation: right 2.5s ease infinite;
+    background-color: #d86981;
+}
+@keyframes left {
+    0% {
+        left: 20%;
+    }
+    50% {
+        left: 50%;
+    }
+    100% {
+        left: 20%;
+    }
+}
+@keyframes right {
+    0% {
+        left: 80%;
+    }
+    50% {
+        left: 50%;
+    }
+    100% {
+        left: 80%;
+    }
+}
