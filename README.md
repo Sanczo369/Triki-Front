@@ -81,3 +81,13 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Background Conic Gradient
 - Yellow Triangle
 - Chart
+- Sphere Loader
+- Ribbon
+- Mesh Loader
+- Neumorphism
+- Speech Bubble
+- Fingerprint - Spinner
+- Gradient Border 1
+- Gradient Border 2
+- Custom Checkbox
+- Menu With Blur Effect
