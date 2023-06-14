@@ -54,16 +54,7 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Trojkaty
 - Karta 3d
 
-## Dodatki
-- Obracanie obiektu
-- Obramowanie
-- Pierscień
-- Pisanie na maszynie
-- Przesuwajacy sie tekst
-- Sticky notes
-- Tekst z obrysem
-- Zdjecie romb 
-- Obramowanie ruchome kreski
+## Projekty(web)
 - Button Hover Effects
 - Gradient Loader
 - Side Bar
@@ -91,3 +82,15 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Gradient Border 2
 - Custom Checkbox
 - Menu With Blur Effect
+
+## Dodatki
+- Obracanie obiektu
+- Obramowanie
+- Pierscień
+- Pisanie na maszynie
+- Przesuwajacy sie tekst
+- Sticky notes
+- Tekst z obrysem
+- Zdjecie romb 
+- Obramowanie ruchome kreski
+
