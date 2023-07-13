@@ -93,4 +93,8 @@ Drobne Elementy do Stron WWW zwykorzstaniem HTML i CSS
 - Tekst z obrysem
 - Zdjecie romb 
 - Obramowanie ruchome kreski
+- like btn
+- upload
+- Payment
+- chat
 
